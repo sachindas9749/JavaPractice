@@ -6,7 +6,6 @@ public static void main(String args[]){
 	int m= sc.nextInt();
 	System.out.println(defDifference(m,n));
 }
-
 public static int defDifference(int m,int n){
   int sum1=0, sum2=0,diff;
 	for(int i=1;i<=m;i++){
