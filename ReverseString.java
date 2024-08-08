@@ -21,6 +21,7 @@ public class ReverseString {
         //using StringBuffer
         StringBuffer sb= new StringBuffer(str);
         StringBuffer rev=sb.reverse();
+        
         System.out.println("Reverse String is "+rev);
     }
 }
